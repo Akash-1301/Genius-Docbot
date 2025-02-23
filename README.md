@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-end-Medical-Chatbot-using-Llama2
 
 # How to run?
@@ -70,3 +71,7 @@ open up localhost:
 - Pinecone
 
 
+=======
+# Genius-Docbot
+A chatbot built using LLaMA 2 for medical assistance.
+>>>>>>> 1479831114966a30f7233050d7bbe71228b63a6d
